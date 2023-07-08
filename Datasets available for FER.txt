@@ -1,0 +1,6 @@
+Datasets available for FER
+
+FEC - Google 
+Expw - https://paperswithcode.com/dataset/expw
+FER2013 - https://www.kaggle.com/datasets/msambare/fer2013
+MELD - https://affective-meld.github.io/
