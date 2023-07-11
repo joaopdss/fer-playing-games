@@ -4,6 +4,7 @@ FEC - Google
 Expw - https://paperswithcode.com/dataset/expw
 FER2013 - https://www.kaggle.com/datasets/msambare/fer2013
 MELD - https://affective-meld.github.io/
+<<<<<<< HEAD
 raf-db - 
 affect net - https://www.kaggle.com/datasets/viktormodroczky/facial-affect-data-relabeled
 
@@ -11,3 +12,10 @@ resources
 https://github.com/XC-Li/Facial_Expression_Recognition
 
 ate agora vou usar affectnet, fer2013 e expw
+=======
+raf-db - não posso incluir esse pq é ilegal de acordo com o carinha do site
+affect net - https://www.kaggle.com/datasets/viktormodroczky/facial-affect-data-relabeled
+
+resources
+https://github.com/XC-Li/Facial_Expression_Recognition
+>>>>>>> 91cf5f9a6ae60cf66ee267bd9dc9cccee2e2c7b3
