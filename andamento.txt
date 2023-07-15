@@ -2,3 +2,4 @@
 12/07 - cleaned fer2013 happy/anger
 13/07 - cleaned fer2013 neutral/sad
 14/07 - cleaned fer2013 surprise
+15/07 - Get only classes I want from Expw dataset, resize all images to 48x48 and join them all together in a folder.
